@@ -1,0 +1,4 @@
+#Thu Jul 21 17:05:57 IRDT 2022
+base.0=D\:\\My_Work\\Android\\AndroidStudioProjects\\widget_drawer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
