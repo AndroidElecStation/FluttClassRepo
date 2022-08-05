@@ -183,7 +183,6 @@ class _InputPageState extends State<InputPage> {
                                     setState(() {
                                       _Wieght--;
                                       if (_Wieght < 0) _Wieght = 0;
-                                      //bmi.SetWeight(_Wieght);
                                     });
                                   }),
                               SizedBox(
@@ -229,7 +228,6 @@ class _InputPageState extends State<InputPage> {
                                     setState(() {
                                       _Age--;
                                       if (_Age < 0) _Age = 0;
-                                      //bmi.SetAge(_Age);
                                     });
                                   }),
                               SizedBox(
